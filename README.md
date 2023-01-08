@@ -3,3 +3,4 @@ Riyush Thakur
 CNetID: riyushthakur
 
 UChicago CS Git Tutorial
+Git is pretty cool
